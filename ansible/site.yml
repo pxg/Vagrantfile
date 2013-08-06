@@ -5,7 +5,7 @@
   roles:
     - common
 
-- include: dotfiles.yml
+#- include: dotfiles.yml
 - include: webservers.yml
-- include: sourcebuilds.yml
-# - include: dbservers.yml
+#- include: sourcebuilds.yml
+#- include: dbservers.yml
